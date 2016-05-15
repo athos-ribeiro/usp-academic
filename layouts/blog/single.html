@@ -17,7 +17,7 @@
 {{ if .PrevInSection }}
 <a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> |
 {{ end }}
-<a href="/blog/#{{ .Date.Format "2006" }}">Blog Archive</a>
+<a href="{{ .Site.BaseURL }}/blog/#{{ .Date.Format "2006" }}">Blog Archive</a>
 {{ if .NextInSection }}
 | <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
 {{ end }}
