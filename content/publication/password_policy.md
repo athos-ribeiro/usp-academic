@@ -2,8 +2,6 @@
 author = "Michelle Steves, Mary Theofanos, Celia Paulsen, Athos Ribeiro."
 citation = "In Human Aspects of Information Security, Privacy and Trust: 3rd International Conference, HAS 2015, Held as Part of HCI International 2015, Los Angeles, CA, USA, August 2-7, 2015. Proceedings, pp. 119-130. Springer International Publishing, 2015."
 date = "2015-05-15T00:53:29-03:00"
-file = ".pdf"
-kind = ""
 title = "Password policy languages: usable translation from the informal to the formal."
 type = "published"
 proceedings = "http://www.springer.com/br/book/9783319203751"
