@@ -8,3 +8,13 @@ You can find it at www.ime.usp.br/~athoscr
 
 I am using [Hugo](http://gohugo.io/) based on [this](https://github.com/consequently/consequently-hugo) template.
 
+## Deploying
+
+I also have the following line in ./git/hooks/pre-push
+
+```
+rsync -avz --delete --exclude=papers public/ $SITE_SERVER:$SITE_PATH
+```
+
+so each time a modification is made the files are updated in the production server. Note that having this in a pre-push hook may not be a good idea in other contexts.
+
