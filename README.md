@@ -13,7 +13,7 @@ I am using [Hugo](http://gohugo.io/) based on [this](https://github.com/conseque
 I also have the following line in ./git/hooks/pre-push
 
 ```
-rsync -avz --delete --exclude=papers public/ $SITE_SERVER:$SITE_PATH
+rsync -avz --delete --exclude=papers --exclude=files public/ $SITE_SERVER:$SITE_PATH
 ```
 
 so each time a modification is made the files are updated in the production server. Note that having this in a pre-push hook may not be a good idea in other contexts.
