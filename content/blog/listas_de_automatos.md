@@ -1,6 +1,6 @@
 +++
 date = "2016-06-08T07:44:48-03:00"
-draft = true
+draft = false
 title = "Linguagens, Autômatos e Computabilidade: Listas de exercícios"
 
 +++
