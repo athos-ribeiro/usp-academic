@@ -10,6 +10,9 @@
           <div class="unit-33 dateblock">
             &nbsp;
           </div>
+<div class="unit-66">
+	<h2>Recent Posts</h2>
+	</div>
         </div>
         {{ range first 5 ((where .Data.Pages.ByDate "Section" "blog").Reverse) }}
         <div class="units-row-end">
