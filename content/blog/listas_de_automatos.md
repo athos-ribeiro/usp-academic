@@ -10,15 +10,15 @@ de exercícios, onde a maioria destes se referiam a exercícios da *segunda edi�
 
 Seguem as minhas soluções para os exercícios propostos:
 
-[Lista 1](http://ime.usp.br/~athoscr/files/automatos/lista_1.pdf) - Capítulo 0: Provas por construção e indução.
+[Lista 1](http://www.ime.usp.br/~athoscr/files/automatos/lista_1.pdf) - Capítulo 0: Provas por construção e indução.
 
-[Lista 2](http://ime.usp.br/~athoscr/files/automatos/lista_2.pdf) - Capítulo 1: Linguagens regulares e autômatos finitos.
+[Lista 2](http://www.ime.usp.br/~athoscr/files/automatos/lista_2.pdf) - Capítulo 1: Linguagens regulares e autômatos finitos.
 
-[Lista 3](http://ime.usp.br/~athoscr/files/automatos/lista_3.pdf) - Capítulo 1: Linguagens não regulares.
+[Lista 3](http://www.ime.usp.br/~athoscr/files/automatos/lista_3.pdf) - Capítulo 1: Linguagens não regulares.
 
-[Lista 4](http://ime.usp.br/~athoscr/files/automatos/lista_4.pdf) - Capítulo 2: Gramáticas livres de contexto e autômato de pilha.
+[Lista 4](http://www.ime.usp.br/~athoscr/files/automatos/lista_4.pdf) - Capítulo 2: Gramáticas livres de contexto e autômato de pilha.
 
-[Lista 5](http://ime.usp.br/~athoscr/files/automatos/lista_5.pdf) - Capítulo 2: Lema do bombeamento para gramátitas livres de contexto.
+[Lista 5](http://www.ime.usp.br/~athoscr/files/automatos/lista_5.pdf) - Capítulo 2: Lema do bombeamento para gramátitas livres de contexto.
 
-[Lista 6](http://ime.usp.br/~athoscr/files/automatos/lista_6.pdf) - Capítulo 3: Máquinas de Turing.
+[Lista 6](http://www.ime.usp.br/~athoscr/files/automatos/lista_6.pdf) - Capítulo 3: Máquinas de Turing.
 
