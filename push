@@ -1,5 +1,6 @@
 #!/bin/sh
 
+REMOTE_SERVER="usp"
 SITE_PATH="/home/posmac/athoscr/www"
 
 if [ -d public ]
@@ -12,6 +13,6 @@ echo 'Compiling new content'
 hugo
 
 echo 'Pushing changes...'
-rsync -avz --delete --exclude=papers --exclude=files public/ usp:$SITE_PATH
+rsync -avz --delete --exclude=papers --exclude=files public/ $REMOTE_SERVER:$SITE_PATH
 
 echo "done."
