@@ -1,6 +1,6 @@
 +++
 author = "Lucas Kanashiro, Athos Ribeiro, David Carlos Silva, Paulo Meirelles, Fabio Kon"
-citation = ""
+citation = "N/A"
 date = "2017-01-02T22:38:52-02:00"
 file = "#"
 kind = ""
