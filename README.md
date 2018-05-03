@@ -4,6 +4,8 @@ This is the repository for my academic website.
 
 You can find it at www.ime.usp.br/~athoscr
 
+Parts of this page are duplicated in my personal blog at athoscr.me
+
 ## How did you do it?
 
 I am using [Hugo](http://gohugo.io/) based on [this](https://github.com/consequently/consequently-hugo) template.
